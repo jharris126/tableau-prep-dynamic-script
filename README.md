@@ -2,7 +2,7 @@
 
 ## SUMMARY
 
-Tableau Prep does not currently have a Web Data Connector feauture, however, script tasts can be used to pull data from APIs then further manipulated in tableau prep. This demo uses the well known SWAPI API to query the People endpoint and dynamically generate a result data set to be passed back to Prep basee on the data received from the API.
+Tableau Prep does not currently have a Web Data Connector feauture, however, script tasts can be used to pull data from APIs then further manipulated in tableau prep. This demo uses the well-known SWAPI API to query the People endpoint and dynamically generate a result for Tableau Prep based on the data received from the API.
 
 
 ## To-Do
